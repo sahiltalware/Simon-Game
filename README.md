@@ -41,3 +41,6 @@ With each level, the sequence becomes longer and harder.*
 4.Each correct sequence increases the level.
 
 5.If you make a mistake → ❌ Game Over (you can restart).
+
+
+**Live Demo:** https://sahiltalware.github.io/Simon-Game/ 
